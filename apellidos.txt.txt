@@ -1,1 +1,3 @@
 apellidos:
+Esparza Osuna
+Solorio Gómez
